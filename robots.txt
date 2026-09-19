@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://latner.co.il/sitemap.xml
